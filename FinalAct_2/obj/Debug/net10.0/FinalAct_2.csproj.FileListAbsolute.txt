@@ -1,0 +1,14 @@
+D:\School\Code\Explore\C#\FinalAct_2\bin\Debug\net10.0\FinalAct_2.exe
+D:\School\Code\Explore\C#\FinalAct_2\bin\Debug\net10.0\FinalAct_2.deps.json
+D:\School\Code\Explore\C#\FinalAct_2\bin\Debug\net10.0\FinalAct_2.runtimeconfig.json
+D:\School\Code\Explore\C#\FinalAct_2\bin\Debug\net10.0\FinalAct_2.dll
+D:\School\Code\Explore\C#\FinalAct_2\bin\Debug\net10.0\FinalAct_2.pdb
+D:\School\Code\Explore\C#\FinalAct_2\obj\Debug\net10.0\FinalAct_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Code\Explore\C#\FinalAct_2\obj\Debug\net10.0\FinalAct_2.AssemblyInfoInputs.cache
+D:\School\Code\Explore\C#\FinalAct_2\obj\Debug\net10.0\FinalAct_2.AssemblyInfo.cs
+D:\School\Code\Explore\C#\FinalAct_2\obj\Debug\net10.0\FinalAct_2.csproj.CoreCompileInputs.cache
+D:\School\Code\Explore\C#\FinalAct_2\obj\Debug\net10.0\FinalAct_2.dll
+D:\School\Code\Explore\C#\FinalAct_2\obj\Debug\net10.0\refint\FinalAct_2.dll
+D:\School\Code\Explore\C#\FinalAct_2\obj\Debug\net10.0\FinalAct_2.pdb
+D:\School\Code\Explore\C#\FinalAct_2\obj\Debug\net10.0\FinalAct_2.genruntimeconfig.cache
+D:\School\Code\Explore\C#\FinalAct_2\obj\Debug\net10.0\ref\FinalAct_2.dll
